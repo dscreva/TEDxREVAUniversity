@@ -1,0 +1,164 @@
+/* Emerald */
+.emerald { background: #2ecc71;}
+.emerald-50 { background: #eafaf1; }
+.emerald-100 { background: #d5f5e3; }
+.emerald-200 { background: #abebc6; }
+.emerald-300 { background: #82e0aa; }
+.emerald-400 { background: #58d68d; }
+.emerald-500 { background: #2ecc71; }
+.emerald-600 { background: #28b463; }
+.emerald-700 { background: #239b56; }
+.emerald-800 { background: #1d8348; }
+.emerald-900 { background: #186a3b; }
+
+/* Nephritis */
+.nephritis { background: #27ae60;}
+.nephritis-50 { background: #e9f7ef; }
+.nephritis-100 { background: #d4efdf; }
+.nephritis-200 { background: #a9dfbf; }
+.nephritis-300 { background: #7dcea0; }
+.nephritis-400 { background: #52be80; }
+.nephritis-500 { background: #27ae60; }
+.nephritis-600 { background: #229954; }
+.nephritis-700 { background: #1e8449; }
+.nephritis-800 { background: #196f3d; }
+.nephritis-900 { background: #145a32; }
+
+/* Amethyst */
+.amethyst { background: #9b59b6;}
+.amethyst-50 { background: #f5eef8; }
+.amethyst-100 { background: #ebdef0; }
+.amethyst-200 { background: #d7bde2; }
+.amethyst-300 { background: #c39bd3; }
+.amethyst-400 { background: #af7ac5; }
+.amethyst-500 { background: #9b59b6; }
+.amethyst-600 { background: #884ea0; }
+.amethyst-700 { background: #76448a; }
+.amethyst-800 { background: #633974; }
+.amethyst-900 { background: #512e5f; }
+
+/* Default */
+
+.default { background: #FF5533; }
+.default-50 { background: #fdf2e9; }
+.default-100 { background: #fae5d3; }
+.default-200 { background: #f5cba7; }
+.default-300 { background: #f0b27a; }
+.default-400 { background: #eb984e; }
+.default-500 { background: #e67e22; }
+.default-600 { background: #ca6f1e; }
+.default-700 { background: #af601a; }
+.default-800 { background: #935116; }
+.default-900 { background: #784212; }
+
+/* Clouds */
+.clouds { background: #ecf0f1;}
+.clouds-50 { background: #fdfefe; }
+.clouds-100 { background: #fbfcfc; }
+.clouds-200 { background: #f7f9f9; }
+.clouds-300 { background: #f4f6f7; }
+.clouds-400 { background: #f0f3f4; }
+.clouds-500 { background: #ecf0f1; }
+.clouds-600 { background: #d0d3d4; }
+.clouds-700 { background: #b3b6b7; }
+.clouds-800 { background: #979a9a; }
+.clouds-900 { background: #7b7d7d; }
+
+/* Asbestos */
+.asbestos { background: #7f8c8d;}
+.asbestos-50 { background: #f2f4f4; }
+.asbestos-100 { background: #e5e8e8; }
+.asbestos-200 { background: #ccd1d1; }
+.asbestos-300 { background: #b2babb; }
+.asbestos-400 { background: #99a3a4; }
+.asbestos-500 { background: #7f8c8d; }
+.asbestos-600 { background: #707b7c; }
+.asbestos-700 { background: #616a6b; }
+.asbestos-800 { background: #515a5a; }
+.asbestos-900 { background: #424949; }
+
+/*  Want more? Check our our other background palettes at
+ *  http://htmlbackgroundcodes.com/background-charts/
+ */
+
+.perfectgray
+{
+background-color:#343a40;
+color:#FFF;
+}
+.dark{
+background:#000;
+color:#FFF;}
+.jumbotron
+{
+    font-size: 70px;
+}
+.callout{
+    height: 80%;
+    padding: 25px;
+}
+.spkico
+{
+	width:100%;
+	height:100%;
+	filter:grayscale(80%);
+	transition:250ms;
+}
+.spkico:hover
+{
+	filter:none;
+	transition:250ms;
+}
+.modctnt
+{
+background:#000;
+width:98%;
+height:%;
+border-radius:2px;
+opacity:0.85;
+z-index: 1;
+position: fixed;
+color:#FFF;
+padding : 20px;
+}
+#modal
+{
+opacity:0;
+position:fixed;
+right:0;
+margin-top:8px;
+top:0;
+z-index:1;
+width:0%;
+height:100%;
+transition:300ms linear;
+box-shadow: 2px 2px 3px #A9A9A9;
+}
+.box {
+    opacity:0.85;
+    font-family: Poppins;
+    max-width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px;
+}
+.close
+{
+  width:50px;
+  height:50px;
+  border-radius:100%;
+  float:right;
+}
+#mod1,#mod2,#mod3,#mod4,#mod5,#mod6,#mod7,#mod8,#mod9,#mod10,#mod11
+{
+opacity:0;
+position:fixed;
+right:-10;
+margin-top:8%;
+top:0;
+z-index:1;
+width:0%;
+height:100%;
+transition:300ms linear;
+box-shadow: 2px 2px 3px #A9A9A9;
+}
